@@ -6,3 +6,4 @@ https://github.com/oreilly-japan/deep-learning-from-scratch-2
 ## 4章 word2vecの高速化
 ## 5章 リカレントニューラルネットワーク
 ## 6章 ゲート付きRNN
+## 7章 RNNによる文章生成
