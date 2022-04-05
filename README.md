@@ -7,3 +7,4 @@ https://github.com/oreilly-japan/deep-learning-from-scratch-2
 ## 5章 リカレントニューラルネットワーク
 ## 6章 ゲート付きRNN
 ## 7章 RNNによる文章生成
+## 8章 Attention
